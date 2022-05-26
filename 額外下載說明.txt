@@ -1,0 +1,17 @@
+請下載並放入data資料夾中:
+
+GoogleNews-vectors-negative300.bin
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+
+
+GoogleNews-vectors-negative300-SLIM.bin
+https://github.com/eyaler/word2vec-slim/blob/master/GoogleNews-vectors-negative300-SLIM.bin.gz
+
+
+Glove.6B.100d.txt
+http://nlp.stanford.edu/data/glove.6B.zip
+其中的100d
+
+
+text8
+http://mattmahoney.net/dc/text8.zip

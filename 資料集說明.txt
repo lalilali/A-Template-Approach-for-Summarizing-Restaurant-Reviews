@@ -1,0 +1,12 @@
+將網址放入crawler中的url 即可爬蟲出前200則評論
+5 Napkin Burger:
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4737024-Reviews-5_Napkin_Burger-New_York_City_New_York.html
+
+Applebee’s:
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1235554-Reviews-Applebee_s-New_York_City_New_York.html
+
+Bea's of Bloomsbury - Russell Square:
+https://www.tripadvisor.com/Restaurant_Review-g186338-d1636194-Reviews-Bea_s_of_Bloomsbury_Russell_Square-London_England.html
+
+Serafina 77th Upper West:
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3163891-Reviews-Serafina_77th_Upper_West-New_York_City_New_York.html

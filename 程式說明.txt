@@ -1,0 +1,6 @@
+若要製作一個template，請開啟
+crawler.ipynb     		產出檔會在original_review_sets
+preprocess.ipynb		產出檔會在review_sets
+3.4 review_classifier.ipynb
+3.5-3.6 sentiment.ipynb
+3.7 TextRank
